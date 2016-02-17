@@ -49,6 +49,6 @@ grid.linestyle: --    # solid line
 figure.facecolor: white
 figure.edgecolor: 0.50
 #figure.dpi: 300.0
-savefig.dpi: 300.0
+#savefig.dpi: 300.0
 
 legend.loc: best
