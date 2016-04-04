@@ -1,0 +1,5 @@
+# from http://www.huyng.com/posts/sane-color-scheme-for-matplotlib/
+# the color palette is taken from palettable 
+# palettable.colorbrewer.qualitative.Set2_8.hex_colors
+axes.prop_cycle: cycler('color', ['E24A33', '348ABD', '988ED5', '777777', 'FBC15E', '8EBA42', 'FFB5B8'])
+
