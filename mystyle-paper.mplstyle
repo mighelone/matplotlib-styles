@@ -2,7 +2,8 @@
 # use ax.minorticks_on()/off() to set on/off the minor ticks
 # use a.locator_params(nbins=4) to define the number of bins for the major ticks
 
-font.family: Times New Roman
+#font.family: Times New Roman
+font.family: serif
 font.style: italic
 
 # minor ticks

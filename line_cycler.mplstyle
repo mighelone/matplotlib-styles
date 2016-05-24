@@ -1,0 +1,2 @@
+# allows linestyle cycling between different style -> useful for paper 
+axes.prop_cycle: cycler('linestyle', ['-', '--', '-.', ':'])
