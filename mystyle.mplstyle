@@ -14,8 +14,8 @@ axes.facecolor: white
 axes.edgecolor: gray
 axes.linewidth: 1
 axes.grid: True
-axes.titlesize: x-large
-axes.labelsize: large
+# axes.titlesize: x-large
+# axes.labelsize: large
 axes.labelcolor: 555555
 axes.axisbelow: True       # grid/ticks are below elements (e.g., lines, text)
 
@@ -28,11 +28,11 @@ lines.linewidth: 2
 
 xtick.color: 555555
 xtick.direction: out
-xtick.labelsize: large
+#xtick.labelsize: large
 
 ytick.color: 555555
 ytick.direction: out
-ytick.labelsize: large
+#ytick.labelsize: large
 
 # grid.color: white
 # grid.color: E5E5E5

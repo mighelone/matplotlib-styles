@@ -1,5 +1,4 @@
-
-
+# monocrome style with linestyle cycler
 axes.prop_cycle: cycler('linestyle', ['-', '--', '-.', ':'])
 lines.color: black
 

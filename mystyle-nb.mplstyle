@@ -1,6 +1,6 @@
 # from http://www.huyng.com/posts/sane-color-scheme-for-matplotlib/
 # mystyle for notebook
-#figure.figsize: 5.0, 4.0
+figure.figsize: 6.0, 4.0
 
 #patch.linewidth: 0.5
 #patch.facecolor: 348ABD  # blue
