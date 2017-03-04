@@ -14,6 +14,12 @@ axes.facecolor: white
 axes.edgecolor: gray
 axes.linewidth: 1
 axes.grid: True
+
+# Define the extra margin on the x and y limits
+# in matplotlib 2 are set to 0.05, before they were 0
+axes.xmargin: 0
+axes.ymargin: 0
+
 # axes.titlesize: x-large
 # axes.labelsize: large
 axes.labelcolor: 555555
