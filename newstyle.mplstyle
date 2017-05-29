@@ -1,0 +1,22 @@
+font.size: 13
+font.style: italic
+
+axes.spines.top: false
+axes.spines.right: false
+
+lines.markeredgewidth: 0
+
+lines.linewidth: 3
+
+figure.dpi: 120
+# figure.figsize: 8.0, 5.5
+
+legend.frameon: false
+
+ytick.minor.visible: True
+xtick.minor.visible: True
+
+
+# formatter
+axes.formatter.use_mathtext : True
+axes.formatter.useoffset      : False
