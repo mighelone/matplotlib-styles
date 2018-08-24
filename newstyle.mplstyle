@@ -13,8 +13,8 @@ figure.dpi: 120
 
 legend.frameon: false
 
-ytick.minor.visible: True
-xtick.minor.visible: True
+#ytick.minor.visible: True
+#xtick.minor.visible: True
 
 
 # formatter
